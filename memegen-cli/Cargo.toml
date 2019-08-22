@@ -1,0 +1,10 @@
+[package]
+name = "memegen-cli"
+version = "0.1.0"
+authors = ["Marco Amann <marco@pfudi.de>"]
+edition = "2018"
+
+[dependencies]
+rusttype = "0.7.7"
+image = "0.21.2"
+memegen-lib = { path = "../memegen-lib", version = "0.1.0" }

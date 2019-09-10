@@ -33,8 +33,6 @@ Builds are run on (arch-)linux and may work on windows. Executables are crosscom
 ## Modify the UI
 The UI is based on a glade-file, that can be edited with glade:
 
-![icon](doc/editor.jpg)
-
 You can move compentnts around without touching the code, as long as you don't change the IDs.
 
 
